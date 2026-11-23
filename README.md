@@ -1,1 +1,1 @@
-# dark-bot-e2e (v2)
+# dark-bot-e2e (v3)
